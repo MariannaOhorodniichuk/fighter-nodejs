@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "marianna@gmail.com",
+      "password": "1234",
+      "firstName": "marianna",
+      "lastName": "ewd",
+      "phoneNumber": "+380000000000",
+      "id": "e02df0ff-34bc-4b9f-9d8d-f9bce6c821df",
+      "createdAt": "2023-06-26T14:23:11.982Z"
+    }
+  ],
+  "fighters": [],
+  "fights": []
+}
